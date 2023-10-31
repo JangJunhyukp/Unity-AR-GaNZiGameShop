@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5191471607389188756
+  m_GuidHigh: 13424678026585001910
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4637247058547823499
+      m_GuidHigh: 6391120773261670037
+    m_SerializedTextureGuid:
+      m_GuidLow: 16696076283407504164
+      m_GuidHigh: 10099311550524478905
+    m_Size: {x: 0.1, y: 0.1407465}
+    m_SpecifySize: 1
+    m_Name: poketmon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5248650989514784359
+      m_GuidHigh: 5117870740632181634
+    m_SerializedTextureGuid:
+      m_GuidLow: 10981046650267562202
+      m_GuidHigh: 17971292380506060107
+    m_Size: {x: 0.1, y: 0.12860548}
+    m_SpecifySize: 1
+    m_Name: onepice
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4763525239160914301
+      m_GuidHigh: 2197264061348702344
+    m_SerializedTextureGuid:
+      m_GuidLow: 10751385817802230426
+      m_GuidHigh: 1864109382575737515
+    m_Size: {x: 0.1, y: 0.13161094}
+    m_SpecifySize: 1
+    m_Name: tekken
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5133267569999282451
+      m_GuidHigh: 10745017681055246506
+    m_SerializedTextureGuid:
+      m_GuidLow: 11377473377136559395
+      m_GuidHigh: 3768017394841962026
+    m_Size: {x: 0.1, y: 0.16336088}
+    m_SpecifySize: 1
+    m_Name: zelda
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5632886815687166004
+      m_GuidHigh: 13675514088367121086
+    m_SerializedTextureGuid:
+      m_GuidLow: 11282819965196101295
+      m_GuidHigh: 6399546659628896105
+    m_Size: {x: 0.1, y: 0.1582139}
+    m_SpecifySize: 1
+    m_Name: zzanggu
+    m_Texture: {fileID: 0}
